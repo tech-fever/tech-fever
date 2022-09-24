@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![tech-fever's GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-fever&show_icons=true&theme=merko)](https://github.com/tech-fever/github-readme-stats)
+<h3 align="center>🌈 tech-fever🌈</h3>
+  <p align="center>
+    <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-fever&layout=compact&langs=3"/></a>&nbsp
+    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=tech-fever&count_private=true&show_icons=true&theme=merko"/></a>
+  </p>
+  <br>
